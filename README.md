@@ -6,6 +6,9 @@ I am currently honing my skills in HTML, CSS, and JavaScript, the foundational t
 
 Feel free to reach out at **areebasattar23@gmail.com**.  
 
+## 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=AreebSattar)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## About Me  
